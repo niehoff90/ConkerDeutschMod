@@ -4,8 +4,8 @@ CURRENT_DIR="$(dirname "$0")/"
 XDELTA3="${CURRENT_DIR}bin/xdelta3"
 INPUT="$1"
 SHA1SUM="4cbadd3c4e0729dec46af64ad018050eada4f47a"
-PATCH="${CURRENT_DIR}conker-deutsch_0.1.0.us.xdelta"
-OUTPUT="${CURRENT_DIR}conker-deutsch_0.1.0.us.z64"
+PATCH="${CURRENT_DIR}conker-deutsch_0.2.0.us.xdelta"
+OUTPUT="${CURRENT_DIR}conker-deutsch_0.2.0.us.z64"
 
 if [ -z "$INPUT" ]; then
     zenity --error --text="Original ROM als Parameter angeben oder per Drag&amp;Drop auf dieses Skript ziehen."
