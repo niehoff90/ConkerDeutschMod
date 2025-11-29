@@ -1,5 +1,5 @@
-Conker Deutsch Mod v.0.1.0 (Alpha-Patch)
-----------------------------------------
+Conker Deutsch Mod v.0.2.0 (zweiter Test-Patch)
+-----------------------------------------------
 
 Der Patch besteht aus einer einzelnen xdelta-Datei, welche von den beiligenden Patch-Skripten verwendet wird.
 Mit den Patch-Skripten kann die Conker Deutsch Mod auf einfache Weise unter Linux (patch-script-linux.sh) oder Windows (patch-script--windows.bat) erstellt werden.
