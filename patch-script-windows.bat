@@ -6,8 +6,8 @@ set "CURRENT_DIR=%~dp0"
 set "XDELTA3=%CURRENT_DIR%bin\xdelta3.exe"
 set "INPUT=%~1"
 set "SHA1SUM=4cbadd3c4e0729dec46af64ad018050eada4f47a"
-set "PATCH=%CURRENT_DIR%conker-deutsch_0.1.0.us.xdelta"
-set "OUTPUT=%CURRENT_DIR%conker-deutsch_0.1.0.us.z64"
+set "PATCH=%CURRENT_DIR%conker-deutsch_0.2.0.us.xdelta"
+set "OUTPUT=%CURRENT_DIR%conker-deutsch_0.2.0.us.z64"
 
 if "%INPUT%"=="" (
     set "message=Original ROM als Parameter angeben oder per Drag&Drop auf dieses Skript ziehen."
