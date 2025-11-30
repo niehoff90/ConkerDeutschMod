@@ -33,10 +33,10 @@ Benötigt wird die originale US-Version von Conker's Bad Fur Day mit folgendem H
 Wer mein Projekt unterstützen möchte findet alle Informationen dazu auf meinem Kanal bei YouTube oder bei Patreon.
 
 Youtube:
-https://www.youtube.com/@conkerdeutsch
+https://www.youtube.com/@EichkatzVA
 
 Patreon:
-https://www.patreon.com/ConkerDeutsch
+https://www.patreon.com/EichkatzVA
 
 Schaut auch mal im SNES-Forum vorbei:
 https://www.snes-projects.de
